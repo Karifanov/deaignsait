@@ -510,7 +510,7 @@ ul {
     margin-top: 10px;
  }
 
- @media only screen and (max-width: 480px) {
+ /* @media only screen and (max-width: 480px) {
     body {
         background: #13042b;
         
@@ -733,9 +733,10 @@ ul {
         font-size: 100px;
         margin-top: 200px;
     }
- }
+ } */
 
- @media only screen and (max-width: 375px) {
+ /* @media only screen and (max-width: 375px) { */
+    @media screen and (max-width: 500px) {
     body {
         background: #13042b;
     }
